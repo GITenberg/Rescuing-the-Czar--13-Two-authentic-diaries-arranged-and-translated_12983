@@ -1,11 +1,16 @@
 _repo: Rescuing-the-Czar--13-Two-authentic-diaries-arranged-and-translated_12983
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smythe, James P.
     gutenberg_agent_id: '4761'
     url: http://www.gutenberg.org/2009/agents/4761
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12983#Rescuing-the-Czar--13-Two-authentic-diaries-arranged-and-translated
 gutenberg_issued: '2004-07-22'
 gutenberg_type: Text
 identifiers:
